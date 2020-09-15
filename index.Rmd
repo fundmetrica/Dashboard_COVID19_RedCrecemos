@@ -67,7 +67,7 @@ Row {data-height=400}
 -----------------------------------------------------------------------
 ### Acá va  gráfico 3
 
-La Granja
+La Granja {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -121,7 +121,7 @@ Row {data-height=150}
 <font size=4, family=Helvetica> En la comuna de La Granja, entre el `r La_Granja_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Granja_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
-El Bosque
+El Bosque {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -177,7 +177,7 @@ Row {data-height=150}
 
 
 
-Lo Prado
+Lo Prado {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -233,7 +233,7 @@ Row {data-height=150}
 
 
 
-La Florida
+La Florida {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -288,7 +288,7 @@ Row {data-height=150}
 
 
 
-Pudahuel
+Pudahuel {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -343,7 +343,7 @@ Row {data-height=150}
 
 
 
-Quilicura
+Quilicura {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -399,7 +399,7 @@ Row {data-height=150}
 
 
 
-San Bernardo
+San Bernardo {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -454,7 +454,7 @@ Row {data-height=150}
 
 
 
-Santiago
+Santiago {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -509,7 +509,7 @@ Row {data-height=150}
 
 
 
-Providencia
+Providencia {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -564,7 +564,7 @@ Row {data-height=150}
 
 
 
-Los Angeles
+Los Angeles {data-navmenu="Comunas"}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
