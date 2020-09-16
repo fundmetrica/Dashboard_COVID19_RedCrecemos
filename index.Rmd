@@ -22,11 +22,15 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(highcharter)
+library(dplyr)
 
 # Crear los datos por comunas para dashboard
-# 
+#
 source("Codigo_BajarCasosActivosComuna.R")
+
+# Cargar funciones para crear gráficos
 source("GraficoEvolucionActivosComunas.R")
+
 
 max_activos <- max(data_CasosActivosComunasColegios$Casos_Activos) + 100
 
@@ -521,7 +525,7 @@ Row {data-height=700}
 
 ### Evolución Casos Activos
 ```{r }
-Chartevolucion(Santiago_Activos, max_activos)
+Graficoevolucionactivos(Santiago_Activos)
 ```
 
 Row {data-height=150}
@@ -576,7 +580,7 @@ Row {data-height=700}
 
 ### Evolución Casos Activos
 ```{r }
-Chartevolucion(Providencia_Activos, max_activos)
+Graficoevolucionactivos(Providencia_Activos)
 ```
 
 Row {data-height=150}
@@ -631,7 +635,7 @@ Row {data-height=700}
 
 ### Evolución Casos Activos
 ```{r }
-Chartevolucion(Los_Angeles_Activos, max_activos)
+Graficoevolucionactivos(Los_Angeles_Activos)
 ```
 
 Row {data-height=150}
