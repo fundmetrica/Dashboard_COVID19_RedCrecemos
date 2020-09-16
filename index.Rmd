@@ -12,8 +12,8 @@ output:
       - {title: "Lo Prado", href: "#lo-prado"}
       - {title: "La Florida", href: "#la-florida"}
       - {title: "Pudahuel", href: "#pudahuel"}
-      - {title: "Quilicura", href: "#quilicura"}
-      - {title: "San Bernardo", href: "#san-bernardo"}
+    # - {title: "Quilicura", href: "#quilicura"}
+    # - {title: "San Bernardo", href: "#san-bernardo"}
     # - {title: "Santiago", href: "#santiago"}
     # - {title: "Providencia", href: "#providencia"}
     # - {title: "Los Ángeles", href: "#los-angeles"}
