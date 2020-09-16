@@ -65,20 +65,6 @@ Los_Angeles_Fallecidos <- filter(data_FallecidosComunas2, Comuna == "Los Angeles
 
 ```
 
-Situación Nacional {.hidden}
-=======================================================================
-Row {data-height=300}
------------------------------------------------------------------------
-### Acá va gráfico 1
-
-Row {data-height=300}
------------------------------------------------------------------------
-### Acá va  gráfico 2
-
-Row {data-height=400}
------------------------------------------------------------------------
-### Acá va  gráfico 3
-
 La Granja {.hidden}
 =======================================================================
 Row {data-height=150}
@@ -630,3 +616,18 @@ Row {data-height=150}
 <font size=5, family=Helvetica> En la comuna Los Angeles, entre el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Los_Angeles_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
+
+
+Situación Nacional {.hidden}
+=======================================================================
+Row {data-height=300}
+-----------------------------------------------------------------------
+### Acá va gráfico 1
+
+Row {data-height=300}
+-----------------------------------------------------------------------
+### Acá va  gráfico 2
+
+Row {data-height=400}
+-----------------------------------------------------------------------
+### Acá va  gráfico 3
