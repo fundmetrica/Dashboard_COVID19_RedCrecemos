@@ -6,7 +6,7 @@ output:
     orientation: rows
     vertical_layout: fill
     navbar:
-      - {title: "Situación Nacional", href: "#situación-nacional"}
+    # - {title: "Situación Nacional", href: "#situación-nacional"}
       - {title: "La Granja", href: "#la-granja"}
       - {title: "El Bosque", href: "#el-bosque"}
       - {title: "Lo Prado", href: "#lo-prado"}
@@ -14,9 +14,9 @@ output:
       - {title: "Pudahuel", href: "#pudahuel"}
       - {title: "Quilicura", href: "#quilicura"}
       - {title: "San Bernardo", href: "#san-bernardo"}
-      - {title: "Santiago", href: "#santiago"}
-      - {title: "Providencia", href: "#providencia"}
-      - {title: "Los Ángeles", href: "#los-angeles"}
+    # - {title: "Santiago", href: "#santiago"}
+    # - {title: "Providencia", href: "#providencia"}
+    # - {title: "Los Ángeles", href: "#los-angeles"}
 ---
 
 ```{r setup, include=FALSE}
