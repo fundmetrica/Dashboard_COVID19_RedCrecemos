@@ -5,6 +5,18 @@ output:
     theme: lumen
     orientation: rows
     vertical_layout: fill
+    navbar:
+      - {title: "Situación Nacional", href: "#situación-nacional"}
+      - {title: "La Granja", href: "#la-granja"}
+      - {title: "El Bosque", href: "#el-bosque"}
+      - {title: "Lo Prado", href: "#lo-prado"}
+      - {title: "La Florida", href: "#la-florida"}
+      - {title: "Pudahuel", href: "#pudahuel"}
+      - {title: "Quilicura", href: "#quilicura"}
+      - {title: "San Bernardo", href: "#san-bernardo"}
+      - {title: "Santiago", href: "#santiago"}
+      - {title: "Providencia", href: "#providencia"}
+      - {title: "Los Ángeles", href: "#los-angeles"}
 ---
 
 ```{r setup, include=FALSE}
@@ -53,7 +65,7 @@ Los_Angeles_Fallecidos <- filter(data_FallecidosComunas2, Comuna == "Los Angeles
 
 ```
 
-Situación Nacional
+Situación Nacional {.hidden}
 =======================================================================
 Row {data-height=300}
 -----------------------------------------------------------------------
@@ -67,7 +79,7 @@ Row {data-height=400}
 -----------------------------------------------------------------------
 ### Acá va  gráfico 3
 
-La Granja {data-navmenu="Comunas"}
+La Granja {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -121,7 +133,7 @@ Row {data-height=150}
 <font size=4, family=Helvetica> En la comuna de La Granja, entre el `r La_Granja_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Granja_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
-El Bosque {data-navmenu="Comunas"}
+El Bosque {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -177,7 +189,7 @@ Row {data-height=150}
 
 
 
-Lo Prado {data-navmenu="Comunas"}
+Lo Prado {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -233,7 +245,7 @@ Row {data-height=150}
 
 
 
-La Florida {data-navmenu="Comunas"}
+La Florida {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -288,7 +300,7 @@ Row {data-height=150}
 
 
 
-Pudahuel {data-navmenu="Comunas"}
+Pudahuel {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -343,7 +355,7 @@ Row {data-height=150}
 
 
 
-Quilicura {data-navmenu="Comunas"}
+Quilicura {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -399,7 +411,7 @@ Row {data-height=150}
 
 
 
-San Bernardo {data-navmenu="Comunas"}
+San Bernardo {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -454,7 +466,7 @@ Row {data-height=150}
 
 
 
-Santiago {data-navmenu="Comunas"}
+Santiago {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -509,7 +521,7 @@ Row {data-height=150}
 
 
 
-Providencia {data-navmenu="Comunas"}
+Providencia {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
@@ -564,7 +576,7 @@ Row {data-height=150}
 
 
 
-Los Angeles {data-navmenu="Comunas"}
+Los Angeles {.hidden}
 =======================================================================
 Row {data-height=150}
 -----------------------------------------------------------------------
