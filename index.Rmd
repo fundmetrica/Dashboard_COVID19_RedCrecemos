@@ -130,7 +130,7 @@ Chartevolucion(La_Granja_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna de La Granja, entre el `r La_Granja_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Granja_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna de La Granja, entre el `r La_Granja_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Granja_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Granja_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Granja_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 El Bosque {.hidden}
@@ -184,7 +184,7 @@ Chartevolucion(El_Bosque_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna El Bosque, entre el `r El_Bosque_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r El_Bosque_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r El_Bosque_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r El_Bosque_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r El_Bosque_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r El_Bosque_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna El Bosque, entre el `r El_Bosque_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r El_Bosque_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r El_Bosque_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r El_Bosque_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r El_Bosque_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r El_Bosque_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -240,7 +240,7 @@ Chartevolucion(Lo_Prado_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Lo Prado, entre el `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Lo_Prado_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Lo_Prado_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Lo_Prado_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Lo Prado, entre el `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Lo_Prado_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Lo_Prado_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Lo_Prado_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Lo_Prado_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -296,7 +296,7 @@ Chartevolucion(La_Florida_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna La Florida, entre el `r La_Florida_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Florida_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Florida_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Florida_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Florida_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Florida_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna La Florida, entre el `r La_Florida_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r La_Florida_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r La_Florida_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r La_Florida_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r La_Florida_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r La_Florida_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -351,7 +351,7 @@ Chartevolucion(Pudahuel_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Pudahuel, entre el `r Pudahuel_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Pudahuel_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Pudahuel_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Pudahuel_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Pudahuel_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Pudahuel_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Pudahuel, entre el `r Pudahuel_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Pudahuel_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Pudahuel_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Pudahuel_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Pudahuel_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Pudahuel_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -406,7 +406,7 @@ Chartevolucion(Quilicura_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Quilicura, entre el `r Quilicura_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Quilicura_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Quilicura_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Quilicura_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Quilicura_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Quilicura_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Quilicura, entre el `r Quilicura_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Quilicura_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Quilicura_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Quilicura_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Quilicura_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Quilicura_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -462,7 +462,7 @@ Chartevolucion(San_Bernardo_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna San Bernardo, entre el `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r San_Bernardo_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r San_Bernardo_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r San_Bernardo_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna San Bernardo, entre el `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r San_Bernardo_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r San_Bernardo_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r San_Bernardo_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r San_Bernardo_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -517,7 +517,7 @@ Chartevolucion(Santiago_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Santiago, entre el `r Santiago_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Santiago_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Santiago_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Santiago_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Santiago_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Santiago_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Santiago, entre el `r Santiago_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Santiago_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Santiago_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Santiago_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Santiago_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Santiago_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -572,7 +572,7 @@ Chartevolucion(Providencia_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Providencia, entre el `r Providencia_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Providencia_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Providencia_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Providencia_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Providencia_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Providencia_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Providencia, entre el `r Providencia_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Providencia_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Providencia_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Providencia_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Providencia_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Providencia_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
 
@@ -627,6 +627,6 @@ Chartevolucion(Los_Angeles_Activos, max_activos)
 
 Row {data-height=150}
 -----------------------------------------------------------------------
-<font size=4, family=Helvetica> En la comuna Los Angeles, entre el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Los_Angeles_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
+<font size=5, family=Helvetica> En la comuna Los Angeles, entre el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos - 1]`, y el `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, <b> los casos variaron de `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos - 1]` a  `r Los_Angeles_Activos$Casos_Activos[ultimoregistro_Activos]` casos activos</b>. Al `r Los_Angeles_Activos$Fecha[ultimoregistro_Activos]`, por cada 100 mil habitantes, hay `r Los_Angeles_Activos$ActcienmilHab[ultimoregistro_Activos]` casos activos. </font>
 
 
