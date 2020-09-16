@@ -68,12 +68,18 @@ Los_Angeles_Fallecidos <- filter(data_FallecidosComunas2, Comuna == "Los Angeles
 Situación Nacional {.hidden}
 =======================================================================
 
-### REPORTE SITUACIÓN ACTUALIZADA COVID 19  al `r Sys.Date()` {data-width=300}
+Row {data-height=100}
+-----------------------------------------------------------------------
+### REPORTE SITUACIÓN ACTUALIZADA COVID 19  al `r Sys.Date()`
 
 A continuación, presentamos información que esperamos sean útiles en esta pandemia, los cuales iremos actualizando periódicamente.
 
+Row {data-height=900}
+-----------------------------------------------------------------------
+### Cuadro Regional {data-width=400}
+<img src="CuadroRegional.jpeg" alt=""> 
 
-### Chile {data-width=700}
+### Chile {data-width=600}
 
 <iframe 
 src="https://e.infogram.com/79acdebc-18ad-4399-8936-bce3b3a49068?parent_url=https%3A%2F%2Fwww.gob.cl%2Fcoronavirus%2Fcifrasoficiales%2F&src=embed#" 
