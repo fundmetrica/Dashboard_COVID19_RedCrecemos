@@ -1,7 +1,8 @@
 ---
-title: "Red Crecemos, COVID-19 por Comuna"
+title: "COVID-19 por Comuna"
 output: 
   flexdashboard::flex_dashboard:
+    logo: Logo_Red.png
     theme: lumen
     orientation: rows
     vertical_layout: fill
