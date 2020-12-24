@@ -16,7 +16,7 @@ data_CasosActivosComunas <- read.csv(text = casos_activos)
 fallecidos <- getURL("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto38/CasosFallecidosPorComuna.csv")
 data_FallecidosComunas <- read.csv(text = fallecidos)
 
-# ----> Proceso organizar y filtrar datos casos activos por comuna ----
+# ----> Proceso organizar y filtrar datos casos activos y fallecidos por comuna ----
 
 data_CasosActivosComunas2 <- gather(data_CasosActivosComunas, Fecha, Casos_Activos,-1,-2,-3,-4,-5)
 data_CasosActivosComunas2$Fecha <- substring(data_CasosActivosComunas2$Fecha,2)
@@ -56,4 +56,7 @@ write.xlsx(data_CasosActivosComunasColegios, nombrearchivoActivos)
 
 write.xlsx(data_FallecidosComunasColegios, nombrearchivoFallecidos)
 
+write.xlsx(data_CasosActivosComunas2, "data_CasosActivosComunas2.xlsx")
+
+write.xlsx(data_FallecidosComunas2, "data_FallecidosComunas2.xlsx")
 
